@@ -127,3 +127,9 @@ This project was developed as a practical automation project to demonstrate webs
 ## Workflow
 
 ![n8n Website Monitoring & Notification System](screenshots/01_Website_UP_TRUE_Branch.png)
+
+![Website DOWN FALSE Branch](screenshots/02_Website_DOWN_FALSE_Branch.png)
+
+![Google Sheets Monitoring Log](screenshots/03_Monitoring_Log_Google_Sheets.png)
+
+![Website Down Email Alert](screenshots/04_Website_Down_Email_Alert.png)
